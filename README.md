@@ -6,7 +6,7 @@ Constantin Reinprecht
 Thomas S. Robinson
 
 
-Objective: Immigration is a highly salient political issue. %The focus has primarily been on the publics' attitudes towards immigrants. 
+Objective: Immigration is a highly salient political issue. The focus has primarily been on the publics' attitudes towards immigrants. 
 We examine the migration preferences of potential emigrants from the UK to determine whether the migration calculus is primarily economic or political. 
 
 Methods: A conjoint survey experiment conducted with UK subjects drawn from the CESS, Nuffield College, Oxford University, student subject pool to identify causal drivers of emigration preferences.  
